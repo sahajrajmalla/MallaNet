@@ -1,0 +1,11 @@
+@inproceedings{ashok2015deep, 
+     author={S. Acharya and A. K. Pant and P. K. Gyawali}, 
+     booktitle={2015 9th International Conference on Software, Knowledge, Information Management and Applications (SKIMA)}, 
+     title={Deep learning based large scale handwritten Devanagari character recognition}, 
+     year={2015}, 
+     pages={1-6},
+     month={Dec}
+ }
+
+
+ https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset-large

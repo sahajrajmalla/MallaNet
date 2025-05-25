@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/extracted
+data/raw/dhcd.rar
+
+.DS_Store
