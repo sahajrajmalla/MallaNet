@@ -147,11 +147,16 @@ If you use MallaNet or this repository in your research, please cite:
 
 ```bibtex
 @article{malla2025mallanet,
-  title={MallaNet: Residual Branch-Merge CNN with Homogeneous Filter Capsules for Devanagari Recognition},
-  author={Malla, Sahaj Raj},
-  journal={TBD},
-  year={2025},
-  publisher={TBD}
+  title     = {MallaNet residual branch merge convolutional neural network with homogeneous filter capsules for Devanagari character recognition},
+  author    = {Malla, Sahaj Raj},
+  journal   = {Scientific Reports},
+  volume    = {15},
+  number    = {1},
+  pages     = {30871},
+  year      = {2025},
+  publisher = {Springer Nature},
+  doi       = {10.1038/s41598-025-30871-z},
+  url       = {https://doi.org/10.1038/s41598-025-30871-z}
 }
 ```
 
